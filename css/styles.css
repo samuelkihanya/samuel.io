@@ -1,11 +1,20 @@
 body {
-    backgound-color: blue
+    background-color: blue;
 }
 h1 {
-    padding-top: 20px
-    padding: bottom 20px;
-    padding-left: 10px;
-    padding-right; 10px;
+    padding-top: 50px;
+    padding-right: 30px;
+    scroll-padding-bottom: 50px;
+    padding-left: 80px;
+    color: blue 
+}
+P{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+ul{
+    list-style-image: url('sqpurple.gif');
 }
 
 
